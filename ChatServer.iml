@@ -5,6 +5,7 @@
       <configuration>
         <fileset id="fileset" name="Spring Application Context" removed="false">
           <file>file://$MODULE_DIR$/src/main/java/Application.java</file>
+          <file>file://$MODULE_DIR$/src/main/java/pack/Application.java</file>
         </fileset>
       </configuration>
     </facet>
@@ -62,5 +63,6 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-context:4.0.6.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-webmvc:4.0.6.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-expression:4.0.6.RELEASE" level="project" />
+    <orderEntry type="library" name="Jersey-2.2" level="project" />
   </component>
 </module>
